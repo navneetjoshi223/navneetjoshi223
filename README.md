@@ -4,6 +4,8 @@
   I'm Navneet Joshi, a passionate software engineer with six years of experience specializing in front-end technologies like Angular and React. I thrive on creating innovative software solutions across various industries, tackling challenges with enthusiasm and a touch of coding magic!
 </p>
 
+Check out my portfolio at https://navneetjoshi223.github.io
+
 <h2 align="left">About Me</h2>
 
 <p align="left">
