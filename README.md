@@ -4,7 +4,7 @@
   scalable React and TypeScript applications. I specialize in real-time data platforms, 
   microfrontend architecture, and enterprise UI systems.
 </p>
-Check out my portfolio at <a href="https://navneetjoshi223.github.io">navneetjoshi223.github.io</a>
+Check out my portfolio at <a href="https://navneetjoshi.vercel.app">navneetjoshi.vercel.app</a>
 
 <h2 align="left">About Me</h2>
 <p align="left">
