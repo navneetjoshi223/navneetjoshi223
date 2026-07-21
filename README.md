@@ -14,14 +14,6 @@ Check out my portfolio at <a href="https://navneetjoshi.vercel.app">navneetjoshi
   📫 Let's connect: https://www.linkedin.com/in/navneetjoshi7/
 </p>
 
-<h2 align="left">GitHub Stats</h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=navneetjoshi223&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetjoshi223&layout=compact&theme=dark&hide_border=true" height="150" />
-</div>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=navneetjoshi223&theme=dark&hide_border=true" height="150" />
-
 <h2 align="left">Tech Stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
