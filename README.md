@@ -9,7 +9,7 @@ Check out my portfolio at <a href="https://navneetjoshi.vercel.app">navneetjoshi
 <h2 align="left">About Me</h2>
 <p align="left">
   ✨ Building production software since 2017<br>
-  📚 Currently exploring React Native, AWS, and Docker<br>
+  📚 Currently exploring AI Agents, RAG and LLM integration<br>
   🎯 Proficient in React, TypeScript, Node.js, and Spring Boot<br>
   📫 Let's connect: https://www.linkedin.com/in/navneetjoshi7/
 </p>
