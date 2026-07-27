@@ -1,7 +1,7 @@
 <h1 align="left">Hey there 👋</h1>
 <p align="left">
   I'm Navneet Joshi, a Senior Software Engineer with 6+ years of experience building 
-  scalable React and TypeScript applications. I specialize in real-time data platforms, 
+  scalable web applications. I specialize in real-time data platforms, 
   microfrontend architecture, and enterprise UI systems.
 </p>
 Check out my portfolio at <a href="https://navneetjoshi.vercel.app">navneetjoshi.vercel.app</a>
